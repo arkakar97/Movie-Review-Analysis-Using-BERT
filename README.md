@@ -1,2 +1,2 @@
 # Movie-Review-Analysis-Using-BERT
-Using BERT one can predict the whether it's a positive review or a negative review.
+Using This BERT model one can predict the whether it's a positive movie review or a negative movie review.
